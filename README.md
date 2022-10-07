@@ -1,4 +1,4 @@
-![Header]([https://www.google.com/search?q=neural+networking+gif&tbm=isch&hl=en&chips=q:neural+network+gif,g_1:artificial+intelligence:5Pdpq573PqM%3D&sa=X&ved=2ahUKEwjJlLrUr876AhVRpekKHSe-BBgQ4lYoAnoECAEQKA&biw=1519&bih=750#imgrc=_Ek4OekfRrhq1M](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwccftech.com%2Fgeforce-driver-465-89-is-optimized-for-outriders-adds-resizable-bar-support-for-rtx-30-series%2F&psig=AOvVaw2_4XbKam1ohjxIUZBxQBpJ&ust=1665241500343000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjL6ZWyzvoCFQAAAAAdAAAAABAE))
+![Header](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)
 <h1 align="center">Hi 👋, I'm Prince Tayal</h1>
 <h3 align="center">I am an UI/UX Designer from INDIA</h3>
 
