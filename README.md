@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/prinxe26" target="blank"><img src="https://img.shields.io/twitter/follow/prinxe26?logo=twitter&style=for-the-badge" alt="prinxe26" /></a> </p>
 
-- 🔭 I’m currently working on **game for JIO glass**
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **biz.princetayal@gmail.com**
