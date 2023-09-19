@@ -1,6 +1,6 @@
 ![Header](https://github.com/PrinceTayal/PrinceTayal/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Prince Tayal</h1>
-<h3 align="center">I am an UI/UX Designer from INDIA</h3>
+<h3 align="center">I am an Flutter Developer from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princetayal&label=Profile%20views&color=0e75b6&style=flat" alt="princetayal" /> </p>
 
@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **game for JIO glass**
 
-- 🌱 I’m currently learning **Figma, Premiere pro CC**
-
-- 🤝 I’m looking for help with **User Experience case studies**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **biz.princetayal@gmail.com**
 
-- ⚡ Fun fact **I am a memer**
+- ⚡ Fun fact **I love making memes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
